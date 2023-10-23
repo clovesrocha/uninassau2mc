@@ -1,4 +1,4 @@
-# UNINASSAU 2 MC 2023.2 
+# UNINASSAU 2MC 2023.2 
 
 # Docente
 - Prof. MSc Cloves Rocha.
